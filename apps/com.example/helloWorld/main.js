@@ -18,7 +18,7 @@ define('com.example/helloWorld/main',
      'gettext!com.example/helloWorld',
      'io.ox/core/tk/dialogs',
      'settings!com.example/helloWorld',
-     'less!com.example/helloWorld/style.less'
+     'less!com.example/helloWorld/style'
     ], function (notifications, gt, dialogs, settings) {
 
     'use strict';

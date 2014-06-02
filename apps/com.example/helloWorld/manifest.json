@@ -1,9 +1,9 @@
 {
-    title: "Hello World",
-    company: "example",
-    icon: "/images/icon.png",
-    category: "Dev",
-    settings: true,
-    requires: "infostore",
-    index: 1900
+    "title": "Hello World",
+    "company": "example",
+    "icon": "/images/icon.png",
+    "category": "Dev",
+    "settings": true,
+    "requires": "infostore",
+    "index": 1900
 }
